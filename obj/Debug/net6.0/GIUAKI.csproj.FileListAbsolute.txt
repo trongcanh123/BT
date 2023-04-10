@@ -1,0 +1,15 @@
+D:\LAPTRINH\C#\GIUAKI\bin\Debug\net6.0\GIUAKI.exe
+D:\LAPTRINH\C#\GIUAKI\bin\Debug\net6.0\GIUAKI.deps.json
+D:\LAPTRINH\C#\GIUAKI\bin\Debug\net6.0\GIUAKI.runtimeconfig.json
+D:\LAPTRINH\C#\GIUAKI\bin\Debug\net6.0\GIUAKI.dll
+D:\LAPTRINH\C#\GIUAKI\bin\Debug\net6.0\GIUAKI.pdb
+D:\LAPTRINH\C#\GIUAKI\obj\Debug\net6.0\GIUAKI.csproj.AssemblyReference.cache
+D:\LAPTRINH\C#\GIUAKI\obj\Debug\net6.0\GIUAKI.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAPTRINH\C#\GIUAKI\obj\Debug\net6.0\GIUAKI.AssemblyInfoInputs.cache
+D:\LAPTRINH\C#\GIUAKI\obj\Debug\net6.0\GIUAKI.AssemblyInfo.cs
+D:\LAPTRINH\C#\GIUAKI\obj\Debug\net6.0\GIUAKI.csproj.CoreCompileInputs.cache
+D:\LAPTRINH\C#\GIUAKI\obj\Debug\net6.0\GIUAKI.dll
+D:\LAPTRINH\C#\GIUAKI\obj\Debug\net6.0\refint\GIUAKI.dll
+D:\LAPTRINH\C#\GIUAKI\obj\Debug\net6.0\GIUAKI.pdb
+D:\LAPTRINH\C#\GIUAKI\obj\Debug\net6.0\GIUAKI.genruntimeconfig.cache
+D:\LAPTRINH\C#\GIUAKI\obj\Debug\net6.0\ref\GIUAKI.dll
